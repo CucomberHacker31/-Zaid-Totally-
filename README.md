@@ -28,10 +28,7 @@ I don't live in the world but in my computer and in my console and games[^2].
 
 You can also use words, to fit your writing style more closely[^note].
 
-[^1]: Github did not let me put the underscore and also **_that's my name ... _**
+[^1]: Github did not let me put the underscore and also **_that's my name..._**
 [^2]: We all know that it is possible to live in the computers right.  
-  Every day we see people on there phones there entire day; **what do you call that people?**.
-[^note]:
-    Named footnotes will still render with numbers instead of the text but allow easier identification and linking.  
-    This footnote also has been made with a different syntax using 4 spaces for new lines.    
+  Every day we see everyone on there phones there entire day; **what do you call that people?**.    
 [^4]: It is not like I searched it up on the internet
