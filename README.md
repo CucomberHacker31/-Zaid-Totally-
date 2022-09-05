@@ -4,7 +4,7 @@
 ![fun](https://www.pngall.com/wp-content/uploads/2016/04/Rubiks-Cube-PNG-File.png)
 
 ### Things I like to do 
-I like to play chess and I also like to solve rubiks cbe puzzles.
+I like to play chess and I also like to solve rubiks cube puzzles.
 
 #### Links
 [Chess.com](https://www.chess.com/home) and [WCA/ World Cubing Assosiation](https://www.worldcubeassociation.org/)[^4]
@@ -24,7 +24,7 @@ I like to play chess and I also like to solve rubiks cbe puzzles.
 # Restarting...
 So my name is Cucomber_Hacker31[^1].
 
-I don't live in the world bu in my computer and in my console and games[^2].  
+I don't live in the world but in my computer and in my console and games[^2].  
 
 You can also use words, to fit your writing style more closely[^note].
 
